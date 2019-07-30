@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="input_text">Remember Me</string>
+    <string name="save_button">SAVE</string>
+</resources>
